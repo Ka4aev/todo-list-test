@@ -218,3 +218,17 @@ Response `204`: empty body.
 │   └── data/
 └── types/
 ```
+
+## 11. Скриншоты
+
+### Login Page
+
+![Страница входа](images/login-page.png)
+
+### Home Page
+
+![Главная страница со списком задач](images/home-page.png)
+
+### Create Task Modal
+
+![Модальное окно создания задачи](images/create-modal.png)
